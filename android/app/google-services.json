@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977062869244",
+    "project_id": "notapp-105f2",
+    "storage_bucket": "notapp-105f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977062869244:android:ebba411b3ec2df4079bf79",
+        "android_client_info": {
+          "package_name": "com.example.notapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApS0fyF9NGJcuaN_bhKK0bkvsnlkOlk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
